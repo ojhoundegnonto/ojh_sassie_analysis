@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "commitComment: " insertComment
+read -p "Insert the comment to commit: " insertComment
 
 git status
 
