@@ -8,4 +8,3 @@ git add .
 
 git commit -m "$insertComment"
 
-git push
